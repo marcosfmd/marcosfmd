@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Marcos Felipe</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="5px">, I'm Marcos Felipe</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosfmd&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on developing my technical skills. Let's connect!
