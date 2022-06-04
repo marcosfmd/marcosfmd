@@ -7,7 +7,7 @@
 - 👯 Projects, I am in search of knowledge,.
 - ⚡I love technology, I like musical instruments
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -17,7 +17,7 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<br><br>
+<br>
 
 ## 📙 Study
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -25,7 +25,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br><br>
+<br>
 
 
 ## 📘 I'm interested in learning
@@ -33,7 +33,7 @@
 ![ANGULAR.JS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![NODE.JS](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -41,7 +41,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcosfmd&show_icons=true&theme=github_dark" alt="marcosfmd stats" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfmd&layout=compact&theme=github_dark" alt="marcosfmd's most languages"/>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
